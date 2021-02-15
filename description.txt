@@ -1,0 +1,13 @@
+More Fruits adds 3 new types of Life Fruit that can be used in any combination after maxing Life Fruit! 
+
+This is my second mod, I hope you enjoy it!
+
+
+ - Life Cherry: Grants 5 extra max health per use. Crafted with 10 life fruit and 1 red dye at an Adamantite Forge.
+
+ - Life Blueberries: Grants 5 extra max health per use. Crafted with 10 life fruit and 1 blue dye at an Adamantite Forge.
+
+ - Life Grapes: Grants 5 extra max health per use. Crafted with 10 life fruit and 1 green dye at an Adamantite Forge.
+
+
+ Depends on my first mod, Life Fruit Core, to change the colors of the health UI(7 colors added by combinations in this mod)
